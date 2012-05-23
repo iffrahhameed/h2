@@ -10,7 +10,9 @@
 ### NOTICE:
 
 This git repository is an unmodified clone of the [h2 svn repository
-hosted on googlecode](http://code.google.com/p/h2database/).
+hosted on googlecode](http://code.google.com/p/h2database/). The svn repo
+is checked for new commits on a daily basis and those are pushed to this
+github repository automatically. So it should always be up to date. 
 
 I have nothing to do with the development of h2 and just thought, that it
 would be nice to have a git repository of it too. Especially because of
